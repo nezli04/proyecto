@@ -6,5 +6,3 @@ Configuración Inicial
   Configura tu correo electrónico.
 - `git config --list`  
   Muestra la configuración actual.
-
-hola nuevamente 
