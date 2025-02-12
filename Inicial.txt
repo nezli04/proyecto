@@ -6,3 +6,12 @@ Configuración Inicial
   Configura tu correo electrónico.
 - `git config --list`  
   Muestra la configuración actual.
+ 
+
+
+- `git config --global user.name "Tu Nombre"`  
+  Configura tu nombre de usuario.
+- `git config --global user.email "tuemail@example.com"`  
+  Configura tu correo electrónico.
+- `git config --list`  
+  Muestra la configuración actual.
