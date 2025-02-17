@@ -1,1 +1,6 @@
 comandos 
+ 
+git branch <nombre-rama>
+Crea una nueva rama.
+git checkout <nombre-rama>
+Cambia a otra rama.
